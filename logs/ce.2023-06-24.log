@@ -1,0 +1,29 @@
+2023.06.24 15:43:33 INFO  ce[][o.s.p.ProcessEntryPoint] Gracefully stopping process
+2023.06.24 15:43:33 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopping...
+2023.06.24 15:43:33 INFO  ce[][o.s.c.t.CeProcessingSchedulerImpl] Gracefully stopping workers...
+2023.06.24 15:43:33 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Shutdown initiated...
+2023.06.24 15:43:33 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Shutdown completed.
+2023.06.24 15:43:33 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopped
+2023.06.24 15:44:12 INFO  ce[][o.s.p.ProcessEntryPoint] Starting Compute Engine
+2023.06.24 15:44:12 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2023.06.24 15:44:13 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar;NON_KEYWORDS=VALUE
+2023.06.24 15:44:13 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Starting...
+2023.06.24 15:44:13 INFO  ce[][c.z.h.p.HikariPool] HikariPool-1 - Added connection conn0: url=jdbc:h2:tcp://127.0.0.1:9092/sonar user=
+2023.06.24 15:44:13 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Start completed.
+2023.06.24 15:44:13 WARN  ce[][o.s.db.dialect.H2] H2 database should be used for evaluation purpose only.
+2023.06.24 15:44:14 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: C:\Users\Administrator\Downloads\sonarqube-9.9.0.65466
+2023.06.24 15:44:14 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2023.06.24 15:44:16 INFO  ce[][o.s.c.c.ComputeEngineContainerImpl] Running Community edition
+2023.06.24 15:44:16 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is started
+2023.06.24 15:46:20 INFO  ce[][o.s.p.ProcessEntryPoint] Starting Compute Engine
+2023.06.24 15:46:20 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2023.06.24 15:46:20 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar;NON_KEYWORDS=VALUE
+2023.06.24 15:46:21 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Starting...
+2023.06.24 15:46:21 INFO  ce[][c.z.h.p.HikariPool] HikariPool-1 - Added connection conn0: url=jdbc:h2:tcp://127.0.0.1:9092/sonar user=
+2023.06.24 15:46:21 INFO  ce[][c.z.h.HikariDataSource] HikariPool-1 - Start completed.
+2023.06.24 15:46:21 WARN  ce[][o.s.db.dialect.H2] H2 database should be used for evaluation purpose only.
+2023.06.24 15:46:22 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: C:\Users\Administrator\Downloads\sonarqube-9.9.0.65466
+2023.06.24 15:46:23 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2023.06.24 15:46:24 INFO  ce[][o.s.c.c.ComputeEngineContainerImpl] Running Community edition
+2023.06.24 15:46:24 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is started
+2023.06.24 16:29:38 WARN  ce[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s663ms309µs).

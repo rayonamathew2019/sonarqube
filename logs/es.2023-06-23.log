@@ -1,0 +1,6 @@
+2023.06.23 17:52:41 WARN  es[][o.e.t.ThreadPool] timer thread slept for [1.2d/109574594ms] on absolute clock which is above the warn threshold of [5000ms]
+2023.06.22 11:26:33 WARN  es[][o.e.t.ThreadPool] absolute clock went backwards by [1.2d/109574106ms] while timer thread was sleeping
+2023.06.23 19:57:43 WARN  es[][o.e.t.ThreadPool] timer thread slept for [1.3d/112737477ms] on absolute clock which is above the warn threshold of [5000ms]
+2023.06.23 19:57:44 WARN  es[][o.e.t.ThreadPool] timer thread slept for [31.5s/31545986800ns] on relative clock which is above the warn threshold of [5000ms]
+2023.06.23 00:42:38 WARN  es[][o.e.t.ThreadPool] absolute clock went backwards by [19.4h/70076410ms] while timer thread was sleeping
+2023.06.23 12:21:14 WARN  es[][o.e.t.ThreadPool] timer thread slept for [11.6h/41899884ms] on absolute clock which is above the warn threshold of [5000ms]
